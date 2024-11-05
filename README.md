@@ -1,2 +1,2 @@
-# 0-web-book-market
-Project files for DJU-WEB (Book Market JSP website).
+# 10-language-security
+Project files for DJU-WEB (10주차 실습).
